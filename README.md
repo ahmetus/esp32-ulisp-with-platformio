@@ -4,6 +4,8 @@ Ulisp ESP32 Setup Code for PlatformIO
 
 Video demonstration : https://youtu.be/i8rEc95dyhs
 
+More detailed demonstration with wifi examples : https://youtu.be/lnRgfM7gzSI
+
 Emacs setup Code :
 
 <pre><code>
